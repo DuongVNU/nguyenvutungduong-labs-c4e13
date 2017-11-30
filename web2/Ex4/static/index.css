@@ -1,0 +1,91 @@
+#logo {
+	display: block;
+	width: auto;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.menu {
+	list-style-type: none;	
+	text-align: center;
+	border: 1px solid #AAAAAA;
+	border-left: 0px;
+	border-right: 0px;
+	height: 40px;
+	line-height: 40px;
+}
+.menu li a {
+	text-decoration: none;
+	color: #000;
+	font-weight: bold; 
+	
+}
+.menu li {
+	display: inline-block;
+	margin-right: 150px; 
+}
+#box {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid gray;
+	padding-top: 5px;
+	height: 1300px;
+}
+.img1 {
+        margin:5px;
+        width: 180px;
+        height: 315px;
+        display: inline-block;
+        float: right;
+        
+ } 
+ .box2 {
+ 	width: 500px;
+ 	margin-left: 110px;
+ 	height: 640px;
+ 	float: left;
+ }
+ #a {
+ 	font-size: 30px;
+ 	display:inline-block;
+ 	font-weight:bold ;
+ }
+ .box3{
+ 	text-align: center;
+ 	border: 1px solid gray;
+ 	height: 40px;
+ 	line-height:40px;
+ 	border-left-width:0px;
+ 	border-right-width:0px;
+
+ }
+ .box4 {
+ 	margin-left: 30px;
+ 	height: 260px;
+ 	width: 300px;
+ 	display: inline-block;
+ 	margin-top: 200px;
+ 	margin-bottom: 182px;
+ }
+ 
+.box5 {
+	width: 350px;
+	margin-left: 110px;
+	float: left;
+}
+.box6 {
+	width: 350px;
+	margin-left: 110px;
+	float: left;
+}
+#box7 {
+	border: 1px solid gray;
+	height: 60px;
+	width: 750px;
+	color:#FFF;
+	background-color:#000;
+	padding-left:250px;
+	line-height: 60px;
+	margin-top:280px;
+}
